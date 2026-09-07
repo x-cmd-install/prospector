@@ -5,7 +5,7 @@ about:
   head: 6af80d7
   archived: false
   latestVersion: "v1.19.1"
-  collectedAt: 2026-09-07T04:53:31Z
+  collectedAt: 2026-09-07T19:31:49Z
 timeline:
   created: 2013-08-05
   lastCommit: 2026-08-31
@@ -16,7 +16,7 @@ popularity:
   fork: 181
   release: 75
   contributor: 87
-  pullRequest: 433
+  pullRequest: 434
   issue: 406
 language:
   Python: 261667
@@ -75,13 +75,13 @@ recent:
 total:
   release: 75
   mergedPR: 376
-  openPR: 1
+  openPR: 2
   closedIssue: 375
   openIssue: 31
   commit: 1654
 ---
 path: /home/runner/.x-repo/github.com/landscapeio/prospector
-collectedAt: 2026-09-07T04:53:32Z
+collectedAt: 2026-09-07T19:31:50Z
 loc:
   Python:
     code: 5580
@@ -137,7 +137,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:53:32+00:00
+  collectedAt: 2026-09-07T19:31:51+00:00
   platform:
     darwin/arm64:
       name:  null
