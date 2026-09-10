@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.19.1"
   latestRelease: "v1.19.1"
   latestPrerelease: "1.8.0rc1"
-  collectedAt: 2026-09-10T04:51:03Z
+  collectedAt: 2026-09-10T16:55:05Z
 timeline:
   created: 2013-08-05
   lastCommit: 2026-09-08
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-07-16
   lastPrerelease: 2022-03-18
 popularity:
-  star: 2086
+  star: 2085
   watcher: 33
-  fork: 181
+  fork: 180
   release: 75
   contributor: 87
   pullRequest: 434
@@ -85,7 +85,7 @@ total:
   commit: 1655
 ---
 path: /home/runner/.x-repo/github.com/landscapeio/prospector
-collectedAt: 2026-09-10T04:51:04Z
+collectedAt: 2026-09-10T16:55:06Z
 loc:
   Python:
     code: 5580
