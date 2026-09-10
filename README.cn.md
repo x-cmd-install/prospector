@@ -12,6 +12,18 @@ Inspects Python source files and provides information about type and location of
 x install prospector
 ```
 
+## 代码规模
+
+合计: **9,335** 行代码（覆盖前 5 种语言、共 **278** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 5,580 | 502 | 1,335 | 197 |
+| Yaml | 1,721 | 58 | 344 | 61 |
+| ReStructuredText | 1,631 | 0 | 651 | 14 |
+| Makefile | 143 | 6 | 28 | 1 |
+| Toml | 139 | 2 | 9 | 5 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/landscapeio/prospector>
@@ -35,20 +47,22 @@ x install prospector
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 22 | 0 | 0 | 0 | 0 | 0 |
 
-## 代码规模
+## 发行版状态
 
-合计: **9,335** 行代码（覆盖前 5 种语言、共 **278** 个文件）。
+在 [repology.org](https://repology.org/project/prospector) 上共有 **18** 个发行版报告此项目。**8** 个 ✅ 已是最新上游版本，**10** 个 ⚠️ 使用旧版本。
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 5,580 | 502 | 1,335 | 197 |
-| Yaml | 1,721 | 58 | 344 | 61 |
-| ReStructuredText | 1,631 | 0 | 651 | 14 |
-| Makefile | 143 | 6 | 28 | 1 |
-| Toml | 139 | 2 | 9 | 5 |
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `1.10.3` | ✅ latest |
+| Debian 14 | `1.10.3` | ✅ latest |
+| Ubuntu 26.04 LTS | `1.10.3` | ✅ latest |
+| Nix unstable | `1.9.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -59,4 +73,4 @@ prospector 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:55:10Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:35:56Z._
