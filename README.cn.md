@@ -4,7 +4,7 @@
 
 Inspects Python source files and provides information about type and location of classes, methods etc
 
-![prospector](https://repo.x-cmd.io/prospector.svg)
+![prospector](https://repo.x-cmd.io/prospector.svg?lang=zh)
 
 ## 安装
 
@@ -21,11 +21,10 @@ x install prospector
 
 - **最新版本**: `v1.19.1` (2026-07-16)
 - **最近提交**: 2026-09-08
-- **发布时间**: 2026-07-16T09:09:20Z
 
 ## 流行度
 
-- **Star**: 2,086 · **Fork**: 181 · **开放 issue**: 406 · **贡献者**: 87
+- **Star**: 2,085 · **Fork**: 180 · **开放 issue**: 406 · **贡献者**: 87
 
 ## 累计统计
 
@@ -60,4 +59,4 @@ prospector 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:51:08Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:55:10Z._
