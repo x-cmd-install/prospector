@@ -32,26 +32,26 @@ Total: **9,350** lines of code across **278** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.20.0` (2026-10-26)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-09
 
 ## Popularity
 
-- **Stars**: 2,084 · **Forks**: 180 · **Open issues**: 406 · **Contributors**: 88
+- **Stars**: 2,084 · **Forks**: 180 · **Open issues**: 407 · **Contributors**: 88
 
 ## Totals (cumulative)
 
-- **Releases**: 76 · **Merged PRs**: 391 · **Open PRs**: 0 · **Closed issues**: 376 · **Open issues**: 30 · **Commits**: 1675
+- **Releases**: 76 · **Merged PRs**: 392 · **Open PRs**: 0 · **Closed issues**: 376 · **Open issues**: 31 · **Commits**: 1676
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-09 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-10 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-12 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-13 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-18 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-11 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-11 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-12 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-14 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-15 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-20 | 16 | 0 | 0 | 0 | 0 | 0 |
 
 ## Distribution status
 
@@ -73,4 +73,4 @@ Install metadata for prospector lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:07:34Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:25:13Z._
