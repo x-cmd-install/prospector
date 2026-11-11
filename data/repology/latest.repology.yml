@@ -244,3 +244,17 @@
     - czchen@debian.org
   categories:
     - universe/devel
+- repo: ubuntu_27_04_proposed
+  subrepo: tenacious-proposed/universe
+  srcname: prospector
+  binnames:
+    - prospector
+  visiblename: prospector
+  version: 1.19.1
+  origversion: 1.19.1-1
+  status: newest
+  maintainers:
+    - team+python@tracker.debian.org
+    - czchen@debian.org
+  categories:
+    - universe/devel
