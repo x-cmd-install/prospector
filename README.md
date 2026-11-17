@@ -40,18 +40,18 @@ Total: **9,350** lines of code across **278** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 76 · **Merged PRs**: 392 · **Open PRs**: 1 · **Closed issues**: 376 · **Open issues**: 31 · **Commits**: 1676
+- **Releases**: 76 · **Merged PRs**: 392 · **Open PRs**: 2 · **Closed issues**: 376 · **Open issues**: 31 · **Commits**: 1676
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-18 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-20 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-21 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-26 | 16 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-18 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-18 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-19 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-21 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-22 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-27 | 16 | 0 | 0 | 0 | 0 | 0 |
 
 ## Distribution status
 
@@ -73,4 +73,4 @@ Install metadata for prospector lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:46:41Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:11:12Z._
