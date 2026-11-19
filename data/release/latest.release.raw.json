@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/prospector-dev/prospector/releases/424029557",
-  "assets_url": "https://api.github.com/repos/prospector-dev/prospector/releases/424029557/assets",
-  "upload_url": "https://uploads.github.com/repos/prospector-dev/prospector/releases/424029557/assets{?name,label}",
-  "html_url": "https://github.com/prospector-dev/prospector/releases/tag/v1.20.0",
-  "id": 424029557,
+  "url": "https://api.github.com/repos/prospector-dev/prospector/releases/448671517",
+  "assets_url": "https://api.github.com/repos/prospector-dev/prospector/releases/448671517/assets",
+  "upload_url": "https://uploads.github.com/repos/prospector-dev/prospector/releases/448671517/assets{?name,label}",
+  "html_url": "https://github.com/prospector-dev/prospector/releases/tag/v1.20.1",
+  "id": 448671517,
   "author": {
     "login": "sbrunner",
     "id": 353872,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOALV3Ns4ZRi11",
-  "tag_name": "v1.20.0",
+  "node_id": "RE_kwDOALV3Ns4avi8d",
+  "tag_name": "v1.20.1",
   "target_commitish": "master",
-  "name": "v1.20.0",
+  "name": "v1.20.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-26T09:01:12Z",
-  "updated_at": "2026-10-26T09:02:16Z",
-  "published_at": "2026-10-26T09:02:16Z",
+  "created_at": "2026-11-17T13:18:07Z",
+  "updated_at": "2026-11-17T13:29:35Z",
+  "published_at": "2026-11-17T13:29:35Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/prospector-dev/prospector/tarball/v1.20.0",
-  "zipball_url": "https://api.github.com/repos/prospector-dev/prospector/zipball/v1.20.0",
-  "body": "## What's Changed\r\n* Bump actions/setup-python from 6.3.0 to 7.0.0 in the github-actions group by @dependabot[bot] in https://github.com/prospector-dev/prospector/pull/830\r\n* [pre-commit.ci] pre-commit autoupdate by @pre-commit-ci[bot] in https://github.com/prospector-dev/prospector/pull/831\r\n* [pre-commit.ci] pre-commit autoupdate by @pre-commit-ci[bot] in https://github.com/prospector-dev/prospector/pull/833\r\n* [pre-commit.ci] pre-commit autoupdate by @pre-commit-ci[bot] in https://github.com/prospector-dev/prospector/pull/834\r\n* Bump cryptography from 49.0.0 to 50.0.0 by @dependabot[bot] in https://github.com/prospector-dev/prospector/pull/835\r\n* [pre-commit.ci] pre-commit autoupdate by @pre-commit-ci[bot] in https://github.com/prospector-dev/prospector/pull/839\r\n* Make the output capture stream a properly initialised text stream by @Eljees in https://github.com/prospector-dev/prospector/pull/837\r\n* [pre-commit.ci] pre-commit autoupdate by @pre-commit-ci[bot] in https://github.com/prospector-dev/prospector/pull/840\r\n* Read the vulture configuration from pyproject.toml by @Eljees in https://github.com/prospector-dev/prospector/pull/836\r\n* [pre-commit.ci] pre-commit autoupdate by @pre-commit-ci[bot] in https://github.com/prospector-dev/prospector/pull/841\r\n* [pre-commit.ci] pre-commit autoupdate by @pre-commit-ci[bot] in https://github.com/prospector-dev/prospector/pull/842\r\n* [pre-commit.ci] pre-commit autoupdate by @pre-commit-ci[bot] in https://github.com/prospector-dev/prospector/pull/843\r\n* [pre-commit.ci] pre-commit autoupdate by @pre-commit-ci[bot] in https://github.com/prospector-dev/prospector/pull/844\r\n* [pre-commit.ci] pre-commit autoupdate by @pre-commit-ci[bot] in https://github.com/prospector-dev/prospector/pull/845\r\n* [pre-commit.ci] pre-commit autoupdate by @pre-commit-ci[bot] in https://github.com/prospector-dev/prospector/pull/846\r\n* [pre-commit.ci] pre-commit autoupdate by @pre-commit-ci[bot] in https://github.com/prospector-dev/prospector/pull/847\r\n* Bump urllib3 from 2.7.0 to 2.8.0 by @dependabot[bot] in https://github.com/prospector-dev/prospector/pull/848\r\n* Bump virtualenv from 21.6.1 to 21.7.13 by @dependabot[bot] in https://github.com/prospector-dev/prospector/pull/849\r\n* [pre-commit.ci] pre-commit autoupdate by @pre-commit-ci[bot] in https://github.com/prospector-dev/prospector/pull/850\r\n* [pre-commit.ci] pre-commit autoupdate by @pre-commit-ci[bot] in https://github.com/prospector-dev/prospector/pull/851\r\n* fix: match ignore-paths against a symlink's own name by @Sanjays2402 in https://github.com/prospector-dev/prospector/pull/832\r\n* Bump certifi from 2026.6.17 to 2026.10.19 by @dependabot[bot] in https://github.com/prospector-dev/prospector/pull/852\r\n\r\n## New Contributors\r\n* @Eljees made their first contribution in https://github.com/prospector-dev/prospector/pull/837\r\n* @Sanjays2402 made their first contribution in https://github.com/prospector-dev/prospector/pull/832\r\n\r\n**Full Changelog**: https://github.com/prospector-dev/prospector/compare/v1.19.1...v1.20.0",
+  "tarball_url": "https://api.github.com/repos/prospector-dev/prospector/tarball/v1.20.1",
+  "zipball_url": "https://api.github.com/repos/prospector-dev/prospector/zipball/v1.20.1",
+  "body": "## What's Changed\r\n* Bump actions/setup-python from 7.0.0 to 7.1.0 in the github-actions group by @dependabot[bot] in https://github.com/prospector-dev/prospector/pull/853\r\n* [pre-commit.ci] pre-commit autoupdate by @pre-commit-ci[bot] in https://github.com/prospector-dev/prospector/pull/854\r\n* Bump pylint from 4.0.6 to 4.0.9 by @dependabot[bot] in https://github.com/prospector-dev/prospector/pull/855\r\n* [pre-commit.ci] pre-commit autoupdate by @pre-commit-ci[bot] in https://github.com/prospector-dev/prospector/pull/856\r\n* [pre-commit.ci] pre-commit autoupdate by @pre-commit-ci[bot] in https://github.com/prospector-dev/prospector/pull/857\r\n* Replace deprecated codecs.open with open by @sbrunner in https://github.com/prospector-dev/prospector/pull/861\r\n* Avoid runtime typing_extensions import in CaptureOutput by @ychampion in https://github.com/prospector-dev/prospector/pull/859\r\n\r\n## New Contributors\r\n* @ychampion made their first contribution in https://github.com/prospector-dev/prospector/pull/859\r\n\r\n**Full Changelog**: https://github.com/prospector-dev/prospector/compare/v1.20.0...v1.20.1",
   "mentions_count": 4
 }
