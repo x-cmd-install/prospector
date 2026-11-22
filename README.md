@@ -36,26 +36,26 @@ Total: **9,344** lines of code across **279** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,084 · **Forks**: 182 · **Open issues**: 408 · **Contributors**: 90
+- **Stars**: 2,084 · **Forks**: 183 · **Open issues**: 409 · **Contributors**: 90
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 395 · **Open PRs**: 1 · **Closed issues**: 378 · **Open issues**: 30 · **Commits**: 1682
+- **Releases**: 77 · **Merged PRs**: 395 · **Open PRs**: 2 · **Closed issues**: 378 · **Open issues**: 31 · **Commits**: 1682
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-22 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-23 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-25 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-26 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-01 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-23 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-23 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-24 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-26 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-27 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-02 | 17 | 0 | 0 | 0 | 0 | 0 |
 
 ## Distribution status
 
-Reported by **20** distros on [repology.org](https://repology.org/project/prospector). **6** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/prospector). **6** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -73,4 +73,4 @@ Install metadata for prospector lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:29:01Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:08:58Z._
